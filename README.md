@@ -1,3 +1,7 @@
+If having issues lmk
+If no injecting go into task manager and end "Controller.exe"
+
+
 Combat
 Aimbot: High-performance aim assist with configurable bone selection (Head/Neck/Chest), FOV, and smoothness.
 Recoil Control (RCS): Automatic recoil compensation with adjustable strength.(WIP)
