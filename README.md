@@ -29,3 +29,4 @@ Kernel Injection: Secure manual mapping via a custom kernel-mode controller.
 Launcher Integration: Centralized UI for safe injection and system monitoring.
 Safety Guards: Anti-cheat presence detection and IRQL validation.
 Clean Detachment: Synchronized cleanup to prevent crashes when leaving or closing the game.
+<img width="3119" height="1262" alt="Screenshot 2026-03-26 232348" src="https://github.com/user-attachments/assets/0e7f73c0-b2f0-46d1-8124-03d428b819ff" />
